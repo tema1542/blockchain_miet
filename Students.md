@@ -2,8 +2,6 @@
 
 | Фамилия и имя | группа МИЭТ |
 | ------ | ------ |
-| [Петр Петров](https://www.facebook.com/kirill.varlamov.12) | МП-23 |
-| [Иванов Иван](https://www.facebook.com/kirill.varlamov.12) | МП-45 |
 | [Всеволод Михалевский](https://www.facebook.com/vs.mix.5) | МП-128 |
 | [Кузнецов Григорий](https://vk.com/ciscomiet) | ТКС |
 | [Бахтин Александр](https://vk.com/ciscomiet) | ТКС |
