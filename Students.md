@@ -13,6 +13,7 @@
 | [Илья Никоноров](https://vk.com/id90625103) | МП-39 |
 | [Губкина Наталия](https://vk.com/id20560131) | МП-48 |
 | [Сухоносик Дмитрий](https://vk.com/mtreload) | МП-15 |
+| [Никитин Евгений](https://vk.com/id38075050) | МП-48 |
 | [Птачек Сергей](https://vk.com/ptachek_sergey) | МП-15 |
 | [Кожин Георгий](https://vk.com/cheshister) | МП-49 |
 
